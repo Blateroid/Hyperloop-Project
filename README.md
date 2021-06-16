@@ -7,7 +7,7 @@ We started working with C code, but then transitioned to Python. In this Github 
 The main program for each language is called Hyperloop, that is the program that you have to run. Just make sure you download the other files and have them in the same folder when you run it. 
 
 As well, if you are going to try to run it you will need the sensors we used, here is the list:
-BMP388 Barometric Pressure and Temperature Sensor
-BerryIMUv3-10DOF
-Ultra-sonic distance sensor
+BMP388 Barometric Pressure and Temperature Sensor,
+BerryIMUv3-10DOF,
+Ultra-sonic distance sensor.
 
